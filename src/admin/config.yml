@@ -5,8 +5,6 @@ backend:
   # Cloudflare Worker (sveltia-cms-auth) performing the GitHub OAuth handshake.
   base_url: https://sveltia-cms-auth.ops-8ca.workers.dev
 
-publish_mode: editorial_workflow
-
 media_folder: "src/documents"
 public_folder: "/documents"
 
