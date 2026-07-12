@@ -1,0 +1,83 @@
+backend:
+  name: github
+  repo: vlscoa/vlscoa-website
+  branch: main
+  # Cloudflare Worker that performs the GitHub OAuth handshake (see /worker).
+  # Replace with the Worker's real URL after deploying it.
+  base_url: https://vlscoa-cms-auth.REPLACE-ME.workers.dev
+  auth_endpoint: auth
+
+publish_mode: editorial_workflow
+
+media_folder: "src/documents"
+public_folder: "/documents"
+
+site_url: https://www.vlscoa.org
+display_url: https://www.vlscoa.org
+logo_url: https://www.vlscoa.org/assets/logo.png
+
+collections:
+  - name: notices
+    label: "Announcements & Notices"
+    label_singular: "Announcement"
+    folder: "src/content/notices"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    description: >-
+      Community announcements shown on the home page. This does NOT replace
+      statutory notice delivery to owners of record (Tex. Prop. Code chs. 82, 209).
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: minutes
+    label: "Approved Minutes"
+    label_singular: "Minutes"
+    folder: "src/content/minutes"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    description: >-
+      Post ONLY minutes the Board has approved. Draft minutes are not published.
+    fields:
+      - { name: title, label: Title, widget: string, hint: "e.g. Board Meeting — March 12, 2026" }
+      - { name: date, label: "Meeting date", widget: datetime, date_format: "YYYY-MM-DD", time_format: false }
+      - { name: pdf, label: "Signed PDF (optional)", widget: file, required: false }
+      - { name: body, label: "Minutes text", widget: markdown }
+
+  - name: pages
+    label: "Site Pages"
+    editor: { preview: false }
+    files:
+      - name: site
+        label: "Site settings (contacts, form links)"
+        file: "src/_data/site.json"
+        fields:
+          - { name: name, label: "Legal name", widget: string }
+          - { name: shortName, label: "Short name", widget: string }
+          - { name: tagline, label: Tagline, widget: string }
+          - { name: url, label: "Site URL", widget: string }
+          - { name: county, label: County, widget: string }
+          - { name: sosFileNo, label: "Texas SOS File No.", widget: string }
+          - name: email
+            label: "Role email addresses"
+            widget: object
+            fields:
+              - { name: info, label: "info@", widget: string }
+              - { name: support, label: "support@", widget: string }
+              - { name: board, label: "board@", widget: string }
+              - { name: president, label: "president@", widget: string }
+              - { name: secretary, label: "secretary@", widget: string }
+              - { name: treasurer, label: "treasurer@", widget: string }
+          - name: forms
+            label: "Google Form links"
+            widget: object
+            fields:
+              - { name: newOwner, label: "New owner registration URL", widget: string }
+              - { name: contactUpdate, label: "Owner contact update URL", widget: string }
+          - name: nav
+            label: "Navigation"
+            widget: list
+            fields:
+              - { name: url, label: URL, widget: string }
+              - { name: label, label: Label, widget: string }

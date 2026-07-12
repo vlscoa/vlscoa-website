@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if title %}{{ title }} — {{ site.shortName }}{% else %}{{ site.name }}{% endif %}</title>
+<meta name="description" content="{{ description or 'Official website of Village at Ledge Stone Condominium Owners Association, Inc. — governing documents, management certificate, board contacts, meetings, and forms.' }}">
+<link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="bar">
+    <div class="brand">
+      <a href="/"><span class="name">{{ site.shortName }}</span></a>
+      <span class="tag">{{ site.tagline }}</span>
+    </div>
+  </div>
+  <nav class="main" aria-label="Main">
+    {%- for item in site.nav %}
+    <a href="{{ item.url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.label }}</a>
+    {%- endfor %}
+  </nav>
+</header>
+
+{% if hero %}
+<section class="hero">
+  <div class="inner">
+    <h1>{{ hero.heading }}</h1>
+    <p>{{ hero.text }}</p>
+  </div>
+</section>
+{% endif %}
+
+<main id="main">
+{% if not hero and title %}<h1>{{ title }}</h1>{% endif %}
+{{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <div class="inner">
+    <strong>{{ site.name }}</strong><br>
+    General inquiries: <a href="mailto:{{ site.email.info }}">{{ site.email.info }}</a> &nbsp;·&nbsp;
+    Owner/resident support: <a href="mailto:{{ site.email.support }}">{{ site.email.support }}</a> &nbsp;·&nbsp;
+    Board: <a href="mailto:{{ site.email.board }}">{{ site.email.board }}</a>
+    <div class="disclaimer">
+      A Texas nonprofit corporation. Information on this site is provided for the convenience of owners and residents and is not legal advice.
+      Where this site and a recorded instrument or applicable law differ, the recorded instrument and law control.
+      © <span id="yr">2026</span> {{ site.name }}
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+</body>
+</html>

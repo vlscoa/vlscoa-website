@@ -1,0 +1,156 @@
+[
+  {
+    "id": "00",
+    "group": "plats",
+    "title": "Subdivision Plat — Bush Ranch, Phase 1",
+    "summary": "The recorded subdivision plat for Bush Ranch, Phase 1.",
+    "docNo": "DOC383S1176",
+    "opr": "Bk. 13, Pg. 225",
+    "pdf": "/documents/00-plat-bush-ranch-phase-1.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOC383S1176?search=DOCSEARCH149S1",
+    "reading": null
+  },
+  {
+    "id": "00.1",
+    "group": "plats",
+    "title": "Subdivision Plat — Bush Ranch, Phase 1, Revised",
+    "summary": "Revised recorded subdivision plat for Bush Ranch, Phase 1.",
+    "docNo": "00000423",
+    "opr": "Bk. 14, Pg. 54",
+    "pdf": "/documents/00.1-plat-bush-ranch-phase-1-revised.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCCP-00000423-04032007?search=DOCSEARCH149S1",
+    "reading": null
+  },
+  {
+    "id": "00.2",
+    "group": "plats",
+    "title": "Amended Plat — Lots 1 & 2, Block A, Revised",
+    "summary": "Amended plat covering Lots 1 and 2, Block A.",
+    "docNo": "24011145",
+    "opr": "—",
+    "pdf": "/documents/00.2-amended-plat-lots-1-2-block-a.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOC577S2132?search=DOCSEARCH149S1",
+    "reading": null
+  },
+  {
+    "id": "01",
+    "group": "master",
+    "title": "Village at Ledge Stone Master Covenant",
+    "summary": "The community-wide covenant administered by the master (property owners) association.",
+    "docNo": "06034956",
+    "opr": "Vol. 3053, Pg. 816",
+    "pdf": "/documents/01-master-covenant.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC06034956-11162006?search=DOCSEARCH149S1",
+    "reading": "/reading/01-master-covenant/"
+  },
+  {
+    "id": "01.1",
+    "group": "master",
+    "title": "Master Covenant — First Amendment",
+    "summary": "First recorded amendment to the Master Covenant.",
+    "docNo": "11030431",
+    "opr": "Vol. 4253, Pg. 105",
+    "pdf": "/documents/01.1-master-covenant-first-amendment.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC11030431-12292011?search=DOCSEARCH149S1",
+    "reading": "/reading/01.1-master-covenant-first-amendment/"
+  },
+  {
+    "id": "01.2",
+    "group": "master",
+    "title": "Master Covenant — Partial Assignment (Exhibit F)",
+    "summary": "Partial assignment of declarant rights under the Master Covenant.",
+    "docNo": "06037771",
+    "opr": "Vol. 3071, Pg. 658",
+    "pdf": "/documents/01.2-master-covenant-partial-assignment-exhibit-f.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC06037771-12142006?search=DOCSEARCH149S1",
+    "reading": "/reading/01.2-master-covenant-partial-assignment-exhibit-f/"
+  },
+  {
+    "id": "02",
+    "group": "coa",
+    "title": "Condominium Declaration",
+    "summary": "Development Area Declaration and Declaration of Condominium Regime — the instrument that creates the condominium and binds every unit.",
+    "docNo": "06035025",
+    "opr": "Vol. 3054, Pg. 359",
+    "pdf": "/documents/02-coa-declaration.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC06035025-11162006?search=DOCSEARCH149S1",
+    "reading": "/reading/02-coa-declaration/"
+  },
+  {
+    "id": "02.1",
+    "group": "coa",
+    "title": "Declaration — First Amendment",
+    "summary": "First recorded amendment to the Condominium Declaration.",
+    "docNo": "80028573",
+    "opr": "Vol. 3488, Pg. 754",
+    "pdf": "/documents/02.1-coa-declaration-first-amendment.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC80028573-09262008?search=DOCSEARCH149S1",
+    "reading": "/reading/02.1-coa-declaration-first-amendment/"
+  },
+  {
+    "id": "02.2",
+    "group": "coa",
+    "title": "Declaration — Second Amendment",
+    "summary": "Second recorded amendment to the Condominium Declaration.",
+    "docNo": "90006124",
+    "opr": "Vol. 3606, Pg. 236",
+    "pdf": "/documents/02.2-coa-declaration-second-amendment.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC90006124-03092009?search=DOCSEARCH149S1",
+    "reading": "/reading/02.2-coa-declaration-second-amendment/"
+  },
+  {
+    "id": "02.3",
+    "group": "coa",
+    "title": "Declaration — Third Amendment",
+    "summary": "Third recorded amendment to the Condominium Declaration.",
+    "docNo": "90014257",
+    "opr": "Vol. 3664, Pg. 366",
+    "pdf": "/documents/02.3-coa-declaration-third-amendment.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC90014257-06012009?search=DOCSEARCH149S1",
+    "reading": "/reading/02.3-coa-declaration-third-amendment/"
+  },
+  {
+    "id": "02.4",
+    "group": "coa",
+    "title": "Declaration — Fourth Amendment",
+    "summary": "Fourth recorded amendment to the Condominium Declaration.",
+    "docNo": "90018196",
+    "opr": "Vol. 3692, Pg. 487",
+    "pdf": "/documents/02.4-coa-declaration-fourth-amendment.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC90018196-07092009?search=DOCSEARCH149S1",
+    "reading": "/reading/02.4-coa-declaration-fourth-amendment/"
+  },
+  {
+    "id": "02.5",
+    "group": "coa",
+    "title": "Declaration — Partial Assignment (Exhibit K)",
+    "summary": "Partial assignment of declarant rights under the Condominium Declaration.",
+    "docNo": "06037772",
+    "opr": "Vol. 3071, Pg. 663",
+    "pdf": "/documents/02.5-coa-declaration-partial-assignment-exhibit-k.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC06037772-12142006?search=DOCSEARCH149S1",
+    "reading": "/reading/02.5-coa-declaration-partial-assignment-exhibit-k/"
+  },
+  {
+    "id": "03",
+    "group": "manual",
+    "title": "Community Manual",
+    "summary": "The recorded Community Manual — contains the Certificate of Formation, Bylaws, Rules & Regulations, and the Assessment Collection Policy.",
+    "docNo": "11030484",
+    "opr": "Vol. 4253, Pg. 525",
+    "pdf": "/documents/03-coa-community-manual.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC11030484-12302011?search=DOCSEARCH149S1",
+    "reading": "/reading/03-coa-community-manual/"
+  },
+  {
+    "id": "04",
+    "group": "guidelines",
+    "title": "Design Guidelines, v2.0",
+    "summary": "Architectural and design standards for the community.",
+    "docNo": "11030432",
+    "opr": "Vol. 4253, Pg. 110",
+    "pdf": "/documents/04-design-guidelines-v2.pdf",
+    "county": "https://erss.co.hays.tx.us/web/document/DOCC11030432-12292011?search=DOCSEARCH149S1",
+    "reading": "/reading/04-design-guidelines-v2/"
+  }
+]

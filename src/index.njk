@@ -1,0 +1,60 @@
+---
+layout: base.njk
+permalink: /
+hero:
+  heading: Welcome to the Village at Ledge Stone community
+  text: The official online home of Village at Ledge Stone Condominium Owners Association, Inc. — where owners and residents can find our governing documents, management certificate, board contacts, and community information.
+---
+<p class="lead">This site is the Association's public information channel. Owners and residents can review the recorded governing documents, reach the Board, find meeting information, and submit requests. Personal owner information and the member roster are never posted here — those are maintained privately by the Association.</p>
+
+<h2>Find what you need</h2>
+<div class="cards">
+  <div class="card">
+    <h3>Governing Documents</h3>
+    <p>Declaration, Bylaws, Rules, Design Guidelines, and all recorded amendments — each with a readable copy, the recorded PDF, and a link to the county record.</p>
+    <a class="more" href="/governing-documents/">View documents →</a>
+  </div>
+  <div class="card">
+    <h3>Management Certificate</h3>
+    <p>The Association's recorded management certificate and key identifying information.</p>
+    <a class="more" href="/management-certificate/">View certificate →</a>
+  </div>
+  <div class="card">
+    <h3>Board &amp; Contacts</h3>
+    <p>How to reach the Board and officers by role — for questions, requests, and support.</p>
+    <a class="more" href="/board-contacts/">Contact the Board →</a>
+  </div>
+  <div class="card">
+    <h3>Meetings &amp; Calendar</h3>
+    <p>Meeting notices, agendas, approved minutes, and annual-meeting information.</p>
+    <a class="more" href="/meetings/">See meetings →</a>
+  </div>
+  <div class="card">
+    <h3>Forms &amp; Requests</h3>
+    <p>New-owner registration, owner contact updates, architectural (ACC) requests, and records requests.</p>
+    <a class="more" href="/forms/">Submit a request →</a>
+  </div>
+  <div class="card">
+    <h3>Financials</h3>
+    <p>The adopted annual budget and public financial disclosures.</p>
+    <a class="more" href="/financials/">View financials →</a>
+  </div>
+</div>
+
+<h2>Announcements &amp; notices</h2>
+{% set notices = collections.notices %}
+{% if notices and notices.length %}
+<ul class="doc-list">
+  {%- for n in notices | reverse %}
+  <li><span><span class="doc-name"><a href="{{ n.url }}">{{ n.data.title }}</a></span><span class="doc-meta">{{ n.data.date | longDate }}</span></span></li>
+  {%- endfor %}
+</ul>
+{% else %}
+<p class="note">No announcements at this time.</p>
+{% endif %}
+<div class="callout">
+  <p style="margin:0"><span class="k">Please note.</span> Official statutory notices required under Texas Property Code Chapters 82 and 209 are delivered directly to owners of record; posting here is for convenience and does not replace required delivery.</p>
+</div>
+
+<h2>New to the community?</h2>
+<p>If you have recently purchased a unit, please <a href="{{ site.forms.newOwner }}" rel="noopener">register as a new owner</a> and see our <a href="/faq/">FAQ &amp; New Owner Information</a> for an overview of assessments, where to find governing documents, and how to keep your owner contact information current with the Association.</p>

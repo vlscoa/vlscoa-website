@@ -1,0 +1,60 @@
+---
+layout: base.njk
+title: Governing Documents
+permalink: /governing-documents/
+description: The recorded dedicatory instruments governing Village at Ledge Stone — Declaration, amendments, Community Manual (Bylaws, Rules, Certificate of Formation, Assessment Collection Policy), Design Guidelines, Master Covenant, and plats.
+---
+<p class="lead">These are the recorded dedicatory instruments that govern Village at Ledge Stone. They are posted here for members and residents in accordance with the Association's obligations under the Texas Uniform Condominium Act (Tex. Prop. Code ch. 82).</p>
+
+<div class="callout statute">
+  <p style="margin:0"><span class="k">Which version controls.</span> The <strong>recorded instrument</strong> filed in the Official Public Records of <strong>Hays County, Texas</strong> is the authoritative version. The reading copies below are unofficial convenience transcriptions; if a reading copy and the recorded instrument differ, the <strong>recorded instrument controls</strong>. Every entry links to the county record so you can verify against the source.</p>
+</div>
+
+<h2>How these documents fit together</h2>
+<p>Village at Ledge Stone sits inside a larger master-planned community. Two layers of covenants apply:</p>
+<ul>
+  <li>The <strong>Master Covenant</strong> is community-wide and is administered by the master (property owners) association. In that instrument, "Property" does <em>not</em> include the condominium.</li>
+  <li>The <strong>Condominium Declaration</strong> creates the condominium regime and binds every unit here. It is administered by this Association, together with the recorded <strong>Community Manual</strong> (which contains the Certificate of Formation, Bylaws, Rules &amp; Regulations, and the Assessment Collection Policy) and the <strong>Design Guidelines</strong>.</li>
+</ul>
+<p class="note">Each instrument's own Definitions article controls what its capitalized terms mean. The same word can mean different things in the Master Covenant and in the Declaration.</p>
+
+{% macro instList(group) %}
+<ul class="instruments">
+  {%- for inst in instruments %}{% if inst.group == group %}
+  <li>
+    <span class="inst-title">{{ inst.id }} — {{ inst.title }}</span>
+    <span class="inst-cite">Doc. No. {{ inst.docNo }}{% if inst.opr != "—" %} · {{ inst.opr }}{% endif %} · Official Public Records, Hays County, Texas</span>
+    <span class="inst-summary">{{ inst.summary }}</span>
+    <span class="inst-actions">
+      {% if inst.reading %}<a class="btn small" href="{{ inst.reading }}">Read online</a>{% endif %}
+      <a class="btn small ghost" href="{{ inst.pdf }}">Recorded PDF</a>
+      <a class="btn small ghost" href="{{ inst.county }}" rel="noopener">County record ↗</a>
+    </span>
+  </li>
+  {% endif %}{%- endfor %}
+</ul>
+{% endmacro %}
+
+<h2>Condominium instruments</h2>
+{{ instList("coa") }}
+
+<h2>Community Manual — Bylaws, Rules, Certificate of Formation &amp; Assessment Policy</h2>
+<p class="note">The Association's Bylaws, Rules &amp; Regulations, Certificate of Formation (Texas SOS File No. {{ site.sosFileNo }}), and Assessment Collection Policy are all contained within the recorded Community Manual.</p>
+{{ instList("manual") }}
+
+<h2>Design Guidelines</h2>
+{{ instList("guidelines") }}
+
+<h2>Master (community-wide) instruments</h2>
+{{ instList("master") }}
+
+<h2>Plats</h2>
+<p class="note">Recorded subdivision plats. These are survey maps; no text reading copy is provided.</p>
+{{ instList("plats") }}
+
+<h2>Board-adopted policies</h2>
+<p class="note">Policies adopted by the Board — for example records production and copying, payment plans, and enforcement — will be posted here as they are adopted.</p>
+
+<div class="callout">
+  <p style="margin:0"><span class="k">Need a document that isn't posted?</span> Owners have a right to inspect and copy certain Association records on request. Please use the <a href="/forms/">records request option on our Forms page</a> or email <a href="mailto:{{ site.email.info }}">{{ site.email.info }}</a>. Some records are confidential and are withheld as required by law (Tex. Prop. Code §82.1141) — for example, other owners' personal information and privileged legal matters.</p>
+</div>

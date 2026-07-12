@@ -1,0 +1,28 @@
+---
+layout: base.njk
+title: Meetings & Calendar
+permalink: /meetings/
+description: Notices of Board and membership meetings, agendas, and approved minutes.
+---
+<p class="lead">Notices of Board and membership meetings, agendas, and approved minutes are posted here. Owners are encouraged to attend.</p>
+
+<h2>Upcoming meetings</h2>
+<div class="callout">
+  <p style="margin:0"><span class="k">Meeting notices will appear here.</span> Notice of a meeting is also delivered to owners as required by the Bylaws and Texas Property Code Chapters 82 and 209.</p>
+</div>
+
+<h2>Annual meeting</h2>
+<p>Information about the annual membership meeting — date, location, and how to submit proxies — will be posted here ahead of the meeting each year.</p>
+
+<h2>Approved minutes</h2>
+<p class="note">Only <strong>approved</strong> minutes are posted. Draft minutes are not published until the Board approves them.</p>
+{% set mins = collections.minutes %}
+{% if mins and mins.length %}
+<ul class="doc-list">
+  {%- for m in mins | reverse %}
+  <li><span><span class="doc-name"><a href="{{ m.url }}">{{ m.data.title }}</a></span><span class="doc-meta">{{ m.data.date | longDate }}</span></span></li>
+  {%- endfor %}
+</ul>
+{% else %}
+<p class="note">No approved minutes have been posted yet.</p>
+{% endif %}

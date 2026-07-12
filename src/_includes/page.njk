@@ -1,0 +1,8 @@
+---
+layout: base.njk
+---
+{% if date %}<p class="note">{{ date | longDate }}</p>{% endif %}
+<div class="reading">
+{{ content | safe }}
+</div>
+{% if pdf %}<p><a class="btn" href="{{ pdf }}">Download PDF</a></p>{% endif %}

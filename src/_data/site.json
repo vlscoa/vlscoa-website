@@ -1,0 +1,30 @@
+{
+  "name": "Village at Ledge Stone Condominium Owners Association, Inc.",
+  "shortName": "Village at Ledge Stone",
+  "tagline": "Condominium Owners Association, Inc.",
+  "url": "https://www.vlscoa.org",
+  "county": "Hays County, Texas",
+  "sosFileNo": "800738983",
+  "email": {
+    "info": "info@vlscoa.org",
+    "support": "support@vlscoa.org",
+    "board": "board@vlscoa.org",
+    "president": "president@vlscoa.org",
+    "secretary": "secretary@vlscoa.org",
+    "treasurer": "treasurer@vlscoa.org"
+  },
+  "forms": {
+    "newOwner": "https://docs.google.com/forms/d/e/1FAIpQLSe-cwUsbPvnvLJEqD9jCFYI-0585Qiwew0IKnIbzgL5rFsmyQ/viewform",
+    "contactUpdate": "https://docs.google.com/forms/d/e/1FAIpQLSeAlb4JS7L9j93qccMxqR33wkQ5LUY0SyClpGkYAlsE_1DLDw/viewform"
+  },
+  "nav": [
+    { "url": "/", "label": "Home" },
+    { "url": "/governing-documents/", "label": "Governing Documents" },
+    { "url": "/management-certificate/", "label": "Management Certificate" },
+    { "url": "/board-contacts/", "label": "Board & Contacts" },
+    { "url": "/meetings/", "label": "Meetings" },
+    { "url": "/forms/", "label": "Forms & Requests" },
+    { "url": "/financials/", "label": "Financials" },
+    { "url": "/faq/", "label": "FAQ" }
+  ]
+}

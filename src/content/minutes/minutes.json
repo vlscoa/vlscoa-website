@@ -1,0 +1,5 @@
+{
+  "layout": "page.njk",
+  "tags": "minutes",
+  "permalink": "/meetings/minutes/{{ page.fileSlug }}/"
+}
