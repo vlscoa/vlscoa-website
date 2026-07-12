@@ -21,19 +21,44 @@ Cost: **$0**. Everything used here is on a free tier.
 
 The repo `vlscoa/vlscoa-website` is public and owned by the `vlscoa` org (owner: `vlscoa-ops`).
 
-**Option A — push from your Mac as `vlscoa-ops` (recommended).** From the `vlscoa-website` folder:
+**Option A — push from your Mac as `vlscoa-ops` (recommended).**
+
+⚠️ Do **not** use plain HTTPS. On a Mac that already has a work GitHub account, the keychain silently supplies that credential and the push fails with `Permission to vlscoa/vlscoa-website.git denied to <work-account>` (403). Erasing the keychain entry would break your work auth. Give the association its own SSH key instead, aliased so it is used only for this remote:
 
 ```bash
+# 1. dedicated key for the association account
+ssh-keygen -t ed25519 -C "ops@vlscoa.org" -f ~/.ssh/vlscoa_ops
+pbcopy < ~/.ssh/vlscoa_ops.pub
+```
+
+Signed into GitHub **as `vlscoa-ops`**: Settings → *SSH and GPG keys* → **New SSH key** → paste. Store the key passphrase in 1Password (*IT Ops — GitHub SSH (vlscoa-ops)*).
+
+```bash
+# 2. host alias scoping the key to this remote
+cat >> ~/.ssh/config <<'EOF'
+
+Host github-vlscoa
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/vlscoa_ops
+  IdentitiesOnly yes
+EOF
+
+# 3. verify — must print "Hi vlscoa-ops!"
+ssh -T git@github-vlscoa
+
+# 4. push
+cd vlscoa-website
 git init -b main
 git config user.name  "VLSCOA Ops"
 git config user.email "ops@vlscoa.org"
 git add .
 git commit -m "Initial site: Eleventy + recorded instruments + CMS"
-git remote add origin https://github.com/vlscoa/vlscoa-website.git
+git remote add origin git@github-vlscoa:vlscoa/vlscoa-website.git
 git push -u origin main
 ```
 
-If git prompts for credentials, sign in as **`vlscoa-ops`** (browser flow, or a Personal Access Token you create and store in 1Password — never reuse your work account).
+This keeps association infra completely separate from any personal or work GitHub identity — which is the point of the `vlscoa-ops` role account.
 
 **Option B — web upload.** GitHub → the repo → *Add file → Upload files* → drag the whole folder in → Commit. Do not upload `node_modules/` or `_site/`.
 
