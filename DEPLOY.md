@@ -25,16 +25,18 @@ The repo `vlscoa/vlscoa-website` is public and owned by the `vlscoa` org (owner:
 
 ⚠️ Do **not** use plain HTTPS. On a Mac that already has a work GitHub account, the keychain silently supplies that credential and the push fails with `Permission to vlscoa/vlscoa-website.git denied to <work-account>` (403). Erasing the keychain entry would break your work auth. Give the association its own SSH key instead, aliased so it is used only for this remote:
 
+**Step 1 — create a key for the association account.**
+
 ```bash
-# 1. dedicated key for the association account
 ssh-keygen -t ed25519 -C "ops@vlscoa.org" -f ~/.ssh/vlscoa_ops
 pbcopy < ~/.ssh/vlscoa_ops.pub
 ```
 
-Signed into GitHub **as `vlscoa-ops`**: Settings → *SSH and GPG keys* → **New SSH key** → paste. Store the key passphrase in 1Password (*IT Ops — GitHub SSH (vlscoa-ops)*).
+**Step 2 — register it.** Signed into GitHub **as `vlscoa-ops`**: Settings → *SSH and GPG keys* → **New SSH key** → paste. Store the key passphrase in 1Password (*IT Ops — GitHub SSH (vlscoa-ops)*).
+
+**Step 3 — scope the key to this remote via a host alias.**
 
 ```bash
-# 2. host alias scoping the key to this remote
 cat >> ~/.ssh/config <<'EOF'
 
 Host github-vlscoa
@@ -43,19 +45,24 @@ Host github-vlscoa
   IdentityFile ~/.ssh/vlscoa_ops
   IdentitiesOnly yes
 EOF
+```
 
-# 3. verify — must print "Hi vlscoa-ops!"
+**Step 4 — verify.** This must print `Hi vlscoa-ops!` — if it prints any other username, the alias is being overridden by an earlier `Host github.com` block in `~/.ssh/config`.
+
+```bash
 ssh -T git@github-vlscoa
+```
 
-# 4. push
-cd vlscoa-website
+**Step 5 — push.** Use `set-url`, not `remote add`, if an `origin` already exists. The repo is created with a stub README commit, so the first push must be forced to replace it.
+
+```bash
 git init -b main
-git config user.name  "VLSCOA Ops"
+git config user.name "VLSCOA Ops"
 git config user.email "ops@vlscoa.org"
 git add .
 git commit -m "Initial site: Eleventy + recorded instruments + CMS"
 git remote add origin git@github-vlscoa:vlscoa/vlscoa-website.git
-git push -u origin main
+git push -u --force origin main
 ```
 
 This keeps association infra completely separate from any personal or work GitHub identity — which is the point of the `vlscoa-ops` role account.
