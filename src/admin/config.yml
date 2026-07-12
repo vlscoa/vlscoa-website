@@ -2,10 +2,8 @@ backend:
   name: github
   repo: vlscoa/vlscoa-website
   branch: main
-  # Cloudflare Worker that performs the GitHub OAuth handshake (see /worker).
-  # Replace with the Worker's real URL after deploying it.
-  base_url: https://vlscoa-cms-auth.REPLACE-ME.workers.dev
-  auth_endpoint: auth
+  # Cloudflare Worker (sveltia-cms-auth) performing the GitHub OAuth handshake.
+  base_url: https://sveltia-cms-auth.ops-8ca.workers.dev
 
 publish_mode: editorial_workflow
 
