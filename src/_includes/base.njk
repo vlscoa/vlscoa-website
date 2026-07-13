@@ -19,8 +19,7 @@
 <header class="site-header">
   <div class="bar">
     <div class="brand">
-      <a href="/"><span class="name">{{ site.shortName }}</span></a>
-      <span class="tag">{{ site.tagline }}</span>
+      <a href="/"><span class="name">{{ site.name }}</span></a>
     </div>
   </div>
   <nav class="main" aria-label="Main">
@@ -53,7 +52,7 @@
     <div class="disclaimer">
       A Texas nonprofit corporation. Information on this site is provided for the convenience of owners and residents and is not legal advice.
       Where this site and a recorded instrument or applicable law differ, the recorded instrument and law control.
-      <br>© {{ buildYear }} {{ site.name }}
+      <div class="copyright">© {{ buildYear }} {{ site.name }}</div>
     </div>
   </div>
 </footer>

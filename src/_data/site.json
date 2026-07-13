@@ -1,6 +1,6 @@
 {
   "name": "Village at Ledge Stone Condominium Owners Association, Inc.",
-  "shortName": "Village at Ledge Stone",
+  "shortName": "Village at Ledge Stone COA",
   "tagline": "Condominium Owners Association, Inc.",
   "url": "https://www.vlscoa.org",
   "county": "Hays County, Texas",
@@ -15,7 +15,9 @@
   },
   "forms": {
     "newOwner": "https://docs.google.com/forms/d/e/1FAIpQLSe-cwUsbPvnvLJEqD9jCFYI-0585Qiwew0IKnIbzgL5rFsmyQ/viewform",
-    "contactUpdate": "https://docs.google.com/forms/d/e/1FAIpQLSeAlb4JS7L9j93qccMxqR33wkQ5LUY0SyClpGkYAlsE_1DLDw/viewform"
+    "contactUpdate": "https://docs.google.com/forms/d/e/1FAIpQLSeAlb4JS7L9j93qccMxqR33wkQ5LUY0SyClpGkYAlsE_1DLDw/viewform",
+    "recordsRequest": "mailto:secretary@vlscoa.org?cc=board@vlscoa.org&subject=Records%20Inspection%20Request",
+    "resaleRequest": "mailto:secretary@vlscoa.org?cc=board@vlscoa.org&subject=Resale%20Certificate%20Request"
   },
   "nav": [
     { "url": "/", "label": "Home" },
