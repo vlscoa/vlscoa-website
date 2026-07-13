@@ -5,10 +5,10 @@ layout: base.njk
 <h1>{{ inst.title }}</h1>
 
 <div class="callout statute recorded-controls">
-  <p><span class="k">Unofficial reading copy.</span> This is a text version of the recorded instrument, provided for readability and accessibility. The <strong>authoritative version is the recorded instrument</strong> on file with the Hays County Clerk — Doc. No. <strong>{{ inst.docNo }}</strong>, Official Public Records of Hays County, Texas{% if inst.opr != "—" %} ({{ inst.opr }}){% endif %}. If this copy and the recorded instrument differ, the <strong>recorded instrument controls</strong>.</p>
+  <p><span class="k">Unofficial reading copy.</span> This is a text version of the recorded instrument, provided for readability and accessibility. It presents the body of the instrument: signature, notary, and county clerk filing pages are omitted, and obvious typographical errors in the source scan have been corrected. The <strong>authoritative version is the recorded instrument</strong> on file with the Hays County Clerk — Doc. No. <strong>{{ inst.docNo }}</strong>, Official Public Records of Hays County, Texas{% if inst.opr != "—" %} ({{ inst.opr }}){% endif %}. If this copy and the recorded instrument differ, the <strong>recorded instrument controls</strong>.</p>
   <p class="inst-links">
-    <a class="btn" href="{{ inst.pdf }}">Recorded PDF</a>
-    <a class="btn" href="{{ inst.county }}" rel="noopener">Hays County record ↗</a>
+    <a class="btn" href="{{ inst.pdf }}" target="_blank" rel="noopener">Recorded PDF</a>
+    <a class="btn" href="{{ inst.county }}" target="_blank" rel="noopener">Hays County record ↗</a>
     <a class="btn ghost" href="/governing-documents/">All governing documents</a>
   </p>
 </div>

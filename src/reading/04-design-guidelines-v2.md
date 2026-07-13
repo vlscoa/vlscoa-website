@@ -6,16 +6,6 @@ permalink: "/reading/04-design-guidelines-v2/"
 description: "Unofficial reading copy of Design Guidelines, v2.0 — Doc. No. 11030432, Official Public Records of Hays County, Texas."
 ---
 
-Document No. 201111030432
-
-AFTER RECORDING RETURN TO:
-
-Robert D. Burton, Esq.
-Winstead, PC
-401 Congress Ave Ste 2100
-Austin, Texas 78701
-Email: rburton@winstead.com [sic]
-
 # VILLAGE AT LEDGE STONE
 ## DESIGN GUIDELINES
 ## VERSION 2.0
@@ -24,17 +14,7 @@ ADOPTED BY VILLAGE AT LEDGE STONE REVIEWER,
 
 290 EAST BUSH, INC., a Texas corporation
 
-STATE OF TEXAS
-
-COUNTY OF HAYS
-
-This instrument was acknowledged before me on the [___] day of [October — handwritten/illegible in original] 2011, by Michael L. Schoenfeld, Vice President of 290 East Bush, Inc., a Texas corporation, on behalf of said corporation.
-
-*[Notary acknowledgment block, signature and seal — see recorded instrument.]*
-
-Adopted by [in accordance] with Section 6.05(b) of Master Covenant for Village At Ledge Stone recorded under Document No. 06034956 (Vol. 3053, Pg 816), Official Public Records of Hays County, Texas, as amended (the "Covenant"). In accordance with Section 6.05(b) of the Covenant, these Design Guidelines may be amended from time to time by the Village at Ledge Stone Reviewer. All prior versions of these Design Guidelines and amendments thereto are hereby amended, restated and replaced in their entirety. All previously approved Improvements approved under prior versions of the Design Guidelines are still deemed approved and not impacted by these Design Guidelines.
-
-AUSTIN_1 1651332 v4 22557-6
+Adopted by 290 East Bush, Inc., in accordance with Section 6.05(b) of Master Covenant for Village At Ledge Stone recorded under Document No. 06034956 (Vol. 3053, Pg 816), Official Public Records of Hays County, Texas, as amended (the "Covenant"). In accordance with Section 6.05(b) of the Covenant, these Design Guidelines may be amended from time to time by the Village at Ledge Stone Reviewer. All prior versions of these Design Guidelines and amendments thereto are hereby amended, restated and replaced in their entirety. All previously approved Improvements approved under prior versions of the Design Guidelines are still deemed approved and not impacted by these Design Guidelines.
 
 ---
 
@@ -48,7 +28,7 @@ Village at Ledge Stone is a master planned community located in Hays County, Tex
 
 ## Village at Ledge Stone Reviewer and Review Authority
 
-Article VI of the Covenant includes procedures and criteria for the construction of Improvements within the Village at Ledge Stone community. Each Development Area Declaration provides that any and all Improvements must be erected placed constructed painted altered modified or remodeled in strict compliance with the requirements of the Design Guidelines and both the Covenant and each Development Area Declaration provide that no Improvements may be constructed without the prior written approval of the Village at Ledge Stone Reviewer.
+Article VI of the Covenant includes procedures and criteria for the construction of Improvements within the Village at Ledge Stone community. Each Development Area Declaration provides that any and all Improvements must be erected, placed, constructed, painted, altered, modified or remodeled in strict compliance with the requirements of the Design Guidelines, and both the Covenant and each Development Area Declaration provide that no Improvements may be constructed without the prior written approval of the Village at Ledge Stone Reviewer.
 
 The Village at Ledge Stone Reviewer consists of members who have been appointed by 290 East Bush, Inc. (the "Declarant"). As provided in Article VI of the Declaration, Declarant has a substantial interest in ensuring that Improvements within the Village at Ledge Stone development maintain and enhance Declarant's reputation as a community developer and do not impair Declarant's ability to market and sell all or any portion of the community, and as a consequence thereof, the Village at Ledge Stone Reviewer acts solely in Declarant's interest and shall owe no duty to any homebuilders, Owners or the Village at Ledge Stone Property Owners Association, Inc (the "Association").
 
@@ -164,7 +144,7 @@ All building materials must be approved in advance by the Village at Ledge Stone
 
 The pitch, color and composition of all roofs and roof materials must be approved in writing by the Village at Ledge Stone Reviewer. The pitch of the primary roofing surface, excluding accessory porches, must be a minimum of 6:12 and each roof must be constructed of composition shingles with a rating of 25 years or greater provided however, that all such roofing materials shall conform to applicable local, FHA and VA requirements. Roof vents and other penetrations shall not be on the front of any home, must be as unobtrusive as possible and must match the principal color of the roof. All material incorporated into any roof must be approved in advance by the Village at Ledge Stone Reviewer.
 
-In addition, roofs of buildings may [be] constructed with "Energy Efficiency Roofing" with the advance written approval of the Village at Ledge Stone Reviewer. For the purpose of this section, "Energy Efficiency Roofing" means shingles that are designed primarily to: (a) be wind and hail resistant; (b) provide heating and cooling efficiencies greater than those provided by customary composite shingles; or (c) provide solar generation capabilities. The Village at Ledge Stone Reviewer will not prohibit an Owner from installing Energy Efficient Roofing provided that the Energy Efficient Roofing shingles: (i) resemble the shingles used or otherwise authorized for use within the community; (ii) are more durable than, and are of equal or superior quality to, the shingles used or otherwise authorized for use within the community; and (iii) match the aesthetics of adjacent property. An Owner who desires to install Energy Efficient Roofing will be required to comply with the architectural review and approval procedures set forth [in] the Covenant and applicable Development Area Declaration. In conjunction with any such approval process, the Owner should submit information which will enable the Village at Ledge Stone Reviewer to confirm the criteria set forth in this section. Any other type of roofing material shall be permitted only with the advance written approval of the Village at Ledge Stone Reviewer.
+In addition, roofs of buildings may be constructed with "Energy Efficiency Roofing" with the advance written approval of the Village at Ledge Stone Reviewer. For the purpose of this section, "Energy Efficiency Roofing" means shingles that are designed primarily to: (a) be wind and hail resistant; (b) provide heating and cooling efficiencies greater than those provided by customary composite shingles; or (c) provide solar generation capabilities. The Village at Ledge Stone Reviewer will not prohibit an Owner from installing Energy Efficient Roofing provided that the Energy Efficient Roofing shingles: (i) resemble the shingles used or otherwise authorized for use within the community; (ii) are more durable than, and are of equal or superior quality to, the shingles used or otherwise authorized for use within the community; and (iii) match the aesthetics of adjacent property. An Owner who desires to install Energy Efficient Roofing will be required to comply with the architectural review and approval procedures set forth in the Covenant and applicable Development Area Declaration. In conjunction with any such approval process, the Owner should submit information which will enable the Village at Ledge Stone Reviewer to confirm the criteria set forth in this section. Any other type of roofing material shall be permitted only with the advance written approval of the Village at Ledge Stone Reviewer.
 
 ## Garages
 
@@ -180,7 +160,7 @@ All driveways shall be surfaced with brushed concrete. Curbs shall be saw cut wi
 
 Driveways must allow entry by standard mid-size vehicles without "bottoming out" in the approach area between the curb and property line as well as the driveway area between the property line and the garage.
 
-If the driveway is raised significantly above finished grade (which will be determined by the Village at Ledge Stone Reviewer [in] its sole and absolute discretion), the exposed sides of the driveway must be underpinned and screened with landscaping approved in advance by the Village at Ledge Stone Reviewer.
+If the driveway is raised significantly above finished grade (which will be determined by the Village at Ledge Stone Reviewer in its sole and absolute discretion), the exposed sides of the driveway must be underpinned and screened with landscaping approved in advance by the Village at Ledge Stone Reviewer.
 
 Where driveways conflict with pedestrian walks, curbs must be saw cut and handicap ramps installed. Handicap ramps must be constructed to comply with all Texas Department of Licensing and Regulation Architectural Barriers Texas Accessibility Standards and American Disabilities Act (ADA) requirements.
 
@@ -204,7 +184,7 @@ Accessory buildings, including pool cabanas, detached garages and guesthouses, s
 2. Minimum 6 to 12 pitch (results in 7.5' wall height on a 10' wide building).
 3. Must be placed within the build lines of applicable lot.
 4. Siding (hardi-plank), trim and roofing materials must, in color and style, match those materials used on the home (no metal sheds).
-5. Landscape screening is required on the perimeter sides that are visible from adjoining properties (typically this will be the sides that face the rear of the property and the opposing property line and will be determined by the Village at Ledge Stone Reviewer based on the placement of the building). Windows are required on [the] perimeter side that faces [the] opposing property line.
+5. Landscape screening is required on the perimeter sides that are visible from adjoining properties (typically this will be the sides that face the rear of the property and the opposing property line and will be determined by the Village at Ledge Stone Reviewer based on the placement of the building). Windows are required on the perimeter side that faces the opposing property line.
 6. Wiring for internal electric lighting must be run underground to the building. No external lighting will be allowed.
 
 ## Antennas
@@ -249,7 +229,7 @@ Solar Energy Devices may be installed with the advance written approval of the V
 
 **Application.** To obtain Village at Ledge Stone Reviewer approval of a Solar Energy Device, the Owner shall provide the Village at Ledge Stone Reviewer with the following information: (i) the proposed installation location of the Solar Energy Device; and (ii) a description of the Solar Energy Device, including the dimensions, manufacturer, and photograph or other accurate depiction (the "Solar Application"). A Solar Application may only be submitted by an Owner unless the Owner's tenant provides written confirmation at the time of submission that the Owner consents to the Solar Application. The Solar Application shall be submitted in accordance with the provisions of the Covenant.
 
-**Approval Process.** The Village at Ledge Stone Reviewer will review the Solar Application in accordance with the terms and provisions of the Covenant. The Village at Ledge Stone Reviewer will approve a Solar Energy Device if the Solar Application complies with [the] Approval Conditions paragraph below UNLESS the Village at Ledge Stone Reviewer makes a written determination that placement of the Solar Energy Device, despite compliance with [the] Approval Conditions paragraph, will create a condition that substantially interferes with the use and enjoyment of the Property within the community by causing unreasonable discomfort or annoyance to persons of ordinary sensibilities. The Village at Ledge Stone Reviewer's right to make a written determination in accordance with the foregoing sentence is negated if all Owners of Lots or Condominium Units immediately adjacent to the Owner/applicant provide written approval of the proposed placement. Notwithstanding the foregoing provision, a Solar Application submitted to install a Solar Energy Device on property owned or maintained by the Association or property owned in common by members of the Association will not be approved despite compliance with the Approval Conditions paragraph below. Any proposal to install a Solar Energy Device on property owned or maintained by the Association or property owned in common by members of the Association must be approved in advance and in writing by the Board, and the Board need not adhere to this policy when considering any such request.
+**Approval Process.** The Village at Ledge Stone Reviewer will review the Solar Application in accordance with the terms and provisions of the Covenant. The Village at Ledge Stone Reviewer will approve a Solar Energy Device if the Solar Application complies with the Approval Conditions paragraph below UNLESS the Village at Ledge Stone Reviewer makes a written determination that placement of the Solar Energy Device, despite compliance with the Approval Conditions paragraph, will create a condition that substantially interferes with the use and enjoyment of the Property within the community by causing unreasonable discomfort or annoyance to persons of ordinary sensibilities. The Village at Ledge Stone Reviewer's right to make a written determination in accordance with the foregoing sentence is negated if all Owners of Lots or Condominium Units immediately adjacent to the Owner/applicant provide written approval of the proposed placement. Notwithstanding the foregoing provision, a Solar Application submitted to install a Solar Energy Device on property owned or maintained by the Association or property owned in common by members of the Association will not be approved despite compliance with the Approval Conditions paragraph below. Any proposal to install a Solar Energy Device on property owned or maintained by the Association or property owned in common by members of the Association must be approved in advance and in writing by the Board, and the Board need not adhere to this policy when considering any such request.
 
 **Approval Conditions.** Unless otherwise approved in advance and in writing by the Village at Ledge Stone Reviewer, each Solar Application and each Solar Energy Device to be installed in accordance therewith must comply with the following:
 
@@ -478,9 +458,9 @@ A completed Improvement Application (Attachment 2), must be submitted for review
 ## ATTACHMENT 1
 ### VILLAGE AT LEDGE STONE: FINAL PLAN APPLICATION
 
-*[Form header includes Village at Ledge Stone logo and contact information: http://www.ledgestoneaustin.com/residents.htm — vlsr@ledgestoneaustin.com]*
+*Editorial note: the form header carries the Village at Ledge Stone logo and contact information — http://www.ledgestoneaustin.com/residents.htm, vlsr@ledgestoneaustin.com.*
 
-*[Fill-in form. Field labels transcribed below; blank lines in the original are for the applicant to complete.]*
+*Editorial note: fill-in form — field labels are transcribed below; blank lines in the original are for the applicant to complete.*
 
 - Date: ______   Section: ______   Block: ______   Lot: ______
 - Address: ______   Builder: ______
@@ -526,7 +506,7 @@ By: ______   Review Date: ______
 ## ATTACHMENT 2
 ### VILLAGE AT LEDGE STONE: IMPROVEMENT APPLICATION
 
-*[Form header includes Village at Ledge Stone logo and contact information: http://www.ledgestoneaustin.com/residents.htm — vlsr@ledgestoneaustin.com]*
+*Editorial note: the form header carries the Village at Ledge Stone logo and contact information — http://www.ledgestoneaustin.com/residents.htm, vlsr@ledgestoneaustin.com.*
 
 **What projects need to be submitted to the Village at Ledge Stone Reviewer?**
 ("Improvements") including, but not limited to, storage sheds, home additions, fencing, fence relocation, fence staining, color changes to the exterior paint, basketball goals, playscapes, decks, arbors, gazebos, swimming pools, spas, hot tubs, playhouses, walls, hardscape improvements, landscaping and exterior alterations.
@@ -544,9 +524,9 @@ The plans and specifications to be submitted will be incomplete and not accepted
 3. The structural design, exterior elevations, exterior materials, colors, textures and shapes of all improvements shall be described, along with any diagrams or representations necessary to depict all proposed exterior illumination, including location and method, utility connections and, if proposed, fire protection systems.
 4. This form must be completed and signed by the Owner of the Lot or Condominium Unit.
 
-*[This form can be found at: http://www.ledgestoneaustin.com/residents.htm]*
+This form can be found at: http://www.ledgestoneaustin.com/residents.htm
 
-*[Fill-in form. Field labels transcribed below; blank lines in the original are for the applicant to complete.]*
+*Editorial note: fill-in form — field labels are transcribed below; blank lines in the original are for the applicant to complete.*
 
 - Owner's Name: ______
 - Address of Improvements: ______
@@ -590,7 +570,7 @@ A deposit of $2,500.00 may be required for certain types of construction project
 
 If you are submitting your request via facsimile, please send a photocopy of check in the correct amount with this submittal. The original check must be received within five days (5) or the submittal will be considered incomplete. Review of plans will be completed in a timely manner.
 
-*[This form can be found at: http://www.ledgestoneaustin.com/residents.htm]*
+This form can be found at: http://www.ledgestoneaustin.com/residents.htm
 
 Please read the following statements and initial next to each line to indicate that you have read, understand and agree to abide by the statement:
 
@@ -613,18 +593,18 @@ Please read the following statements and initial next to each line to indicate t
 - Home Phone: ______
 - Address: ______
 
-*[This form can be found at: http://www.ledgestoneaustin.com/residents.htm]*
+This form can be found at: http://www.ledgestoneaustin.com/residents.htm
 
 Following a review of your submittal, the Village at Ledge Stone Reviewer:
 
 - ☐ Approves the plans as submitted.
 - ☐ Disapproved your request at this time because of the following reasons or variances from the Association Restrictions and/or guidelines established by the Village at Ledge Stone Reviewer. ______
-- ☐ Requests the following additional information in order to make a final decision on this [submittal per] Association Restrictions and/or guidelines established by the Village at Ledge Stone Reviewer. ______
+- ☐ Requests the following additional information in order to make a final decision on this Association Restrictions and/or guidelines established by the Village at Ledge Stone Reviewer. ______
 
 Village at Ledge Stone Reviewer:
 By: ______   Review Date: ______
 
-*[This form can be found at: http://www.ledgestoneaustin.com/residents.htm]*
+This form can be found at: http://www.ledgestoneaustin.com/residents.htm
 
 ---
 
@@ -638,14 +618,12 @@ The following are general guidelines approved for The Village at Ledge Stone. Al
 | Plant Material | Lot | Condominium Unit |
 | --- | --- | --- |
 | **Yard Trees** (Existing native trees may be counted toward this requirement) | *Quantities* | *Quantities* |
-| Front Yard — 3" Caliper Trees | [see recorded instrument] | [see recorded instrument] |
-| Rear Yard — 3" Caliper Trees | [see recorded instrument] | [see recorded instrument] |
-| Side Yard Corner Lot — 3" Caliper Trees | [see recorded instrument] | 4 |
+| Front Yard — 3" Caliper Trees | 2 | 2 |
+| Rear Yard — 3" Caliper Trees | 0 | 0 |
+| Side Yard Corner Lot — 3" Caliper Trees | 4 | 4 |
 | **Foundation Planting — Front** | | |
-| Shrubs — 3 to 5 Gallon | 18 | [see recorded instrument] |
+| Shrubs — 3 to 5 Gallon | 18 | 5 |
 | Shrubs/Plants — 1 Gallon | 20 | 10 |
-
-*[Editorial note: In the recorded instrument, several quantity cells in the "Yard Trees" and "Foundation Planting" rows are faint/illegible in the scanned original; only the legible values are transcribed above. Refer to the recorded instrument for the complete table.]*
 
 **Acceptable Trees** — Alternate trees may be approved by the Village at Ledge Stone Reviewer:
 
@@ -662,4 +640,4 @@ The following are general guidelines approved for The Village at Ledge Stone. Al
 
 ---
 
-*End of recorded instrument (Doc. No. 11030432). Recording certification, notary block, and county clerk stamps appear on the recorded instrument and are not reproduced here.*
+*End of Design Guidelines, Version 2.0 (Doc. No. 11030432).*

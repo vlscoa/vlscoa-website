@@ -6,55 +6,18 @@ permalink: "/reading/03-coa-community-manual/"
 description: "Unofficial reading copy of Community Manual — Doc. No. 11030484, Official Public Records of Hays County, Texas."
 ---
 
-After Recording Return To:
-
-Robert D. Burton, Esq.
-Winstead, PC
-401 Congress Ave., Suite 2100
-Austin, Texas 78701
-Email: rburton@winstead.com
-
 **VILLAGE AT LEDGE STONE CONDOMINIUMS**
 **COMMUNITY MANUAL**
 
 The undersigned hereby certifies that he is the duly elected, qualified and acting President of the Village at Ledge Stone Condominium Owners Association, Inc., a Texas non-profit corporation (the "Association"), and that this is a true and correct copy of the current Community Manual of the Association adopted by the Board of Directors of the Association.
 
-IN WITNESS WHEREOF, the undersigned has executed this certificate on the [__] day of [________], 2011. [handwritten date illegible]
-
-[signature] [sic]
-President
-
-STATE OF TEXAS
-
-COUNTY OF HAYS
-
-This instrument was acknowledged before me on this [__] day of [________], 2011, by [________] [handwritten name illegible], the President of the Village at Ledge Stone Condominium Owners Association, Inc., a Texas non-profit corporation, on behalf of said corporation.
-
-RHONDA G. BRIDGES
-My Commission Expires [________] 28, 2013
-[Notary Public]
-
 Cross-reference to Development Area Declaration and Declaration of Condominium Regime for Village At Ledge Stone Condominiums recorded under Document No. 06035025 (Vol. 3054, Pg 359) in the Official Public Records of Hays County, Texas, as amended.
 
 In the event of a conflict between the terms and provisions of the Development Area Declaration and Declaration of Condominium Regime for Village At Ledge Stone Condominiums or any policies adopted by the Board prior to the effective date of this instrument, the terms and provisions of this instrument shall control.
 
-290 East Bush, Inc., previously adopted that certain Ledge Stone Community Manual recorded under Document No. 70028298 (Vol. 3255, Pg 560), Official Public Records of Hays County, Texas (the "Original Community Manual"). The Original Community Manual applied to the Village at Ledge Stone Property Owners Association, Inc., and the Village at Ledge Stone Condominium Owners Association, Inc. This Community Manual amends and replaces in its entirety the Original Community Manual and pertains only to the Village at Ledge Stone Property Owners Association, Inc. [sic]
+290 East Bush, Inc., previously adopted that certain Ledge Stone Community Manual recorded under Document No. 70028298 (Vol. 3255, Pg 560), Official Public Records of Hays County, Texas (the "Original Community Manual"). The Original Community Manual applied to the Village at Ledge Stone Property Owners Association, Inc., and the Village at Ledge Stone Condominium Owners Association, Inc. This Community Manual amends and replaces in its entirety the Original Community Manual and pertains only to the Village at Ledge Stone Property Owners Association, Inc.
 
-AUSTIN_1\648940 v3 22557-6
-
----
-
-# VILLAGE AT LEDGE STONE CONDOMINIUMS — COMMUNITY MANUAL
-
-## TABLE OF CONTENTS
-
-1. CERTIFICATE OF FORMATION — Attachment 1
-2. BYLAWS — Attachment 2
-3. RULES AND REGULATIONS — Attachment 3
-4. ASSESSMENT COLLECTION POLICY — Attachment 4
-5. FINE POLICY — Attachment 5
-
-AUSTIN_1\648940 v1 22557-6
+*Editorial note: "Property Owners Association, Inc." appears here in the recorded text.*
 
 ---
 
@@ -98,8 +61,6 @@ Document: 152455860002
 ---
 
 ### CERTIFICATE OF FORMATION
-
-*[Filing stamp: FILED in the Office of the Secretary of State of Texas, Nov 28 2006, Corporations Section.]*
 
 **VILLAGE AT LEDGE STONE CONDOMINIUM OWNERS ASSOCIATION, INC.**
 
@@ -170,13 +131,6 @@ Any action required by law to be taken at any annual or special meeting of the m
 #### ARTICLE XIV — AMENDMENT
 
 This Certificate of Formation may be amended by proposal submitted to the membership of the Association. Any such proposed amendment shall be adopted only upon an affirmative vote by the holders of an eighty percent (80%) majority of the total number of votes of the Association, as determined under the Declaration. In the case of any conflict between the Declaration and this Certificate of Formation, the Declaration shall control; and in the case of any conflict between this Certificate of Formation and the Bylaws of the Association, this Certificate of Formation shall control.
-
-IN WITNESS WHEREOF, the undersigned has hereunto set his hand, this [__] day of November, 2006.
-
-[signature] [sic]
-Robert D. Burton, Incorporator
-
-*260647-2 11/27/2006 — VILLAGE AT LEDGE STONE CONDOMINIUM OWNERS ASSOCIATION, INC. — CERTIFICATE OF FORMATION*
 
 ---
 
@@ -352,7 +306,9 @@ vi. The Board may but is not required to publish to Members the time, date, and 
 
 **6.2. Notice and Hearing.** Before imposing a fine or exercising self-help abatement, the Board must give the Owner a written violation notice and an opportunity to be heard.
 
-**6.2.1. Notice of Violation.** The Board's written violation notice will contain the following: (i) the date the violation notice is prepared or mailed; (ii) a description of the violation; (iii) a reference to the rule or provision of the Documents that is being violated; (iv) a description of the action required to cure the violation; (v) the amount of the fine to be levied and/or the abatement action to be taken; (vi) the date the fine begins accruing or abatement action becomes possible; and (vi) [sic] a statement that not later than the thirtieth (30th) day after the date of the violation notice, the Owner may request a hearing before the Board to contest the fine or the abatement action.
+**6.2.1. Notice of Violation.** The Board's written violation notice will contain the following: (i) the date the violation notice is prepared or mailed; (ii) a description of the violation; (iii) a reference to the rule or provision of the Documents that is being violated; (iv) a description of the action required to cure the violation; (v) the amount of the fine to be levied and/or the abatement action to be taken; (vi) the date the fine begins accruing or abatement action becomes possible; and (vi) a statement that not later than the thirtieth (30th) day after the date of the violation notice, the Owner may request a hearing before the Board to contest the fine or the abatement action.
+
+*Editorial note: the recorded list numbers two consecutive items "(vi)".*
 
 **6.2.2. Notice to Resident.** In addition to giving the written violation notice to the Owner, the Board may also give a copy of the notice to the non-Owner resident, if the Board deems it appropriate.
 
@@ -484,7 +440,7 @@ For additional Rules and Regulations that apply to the Village at Ledge Stone Co
 
 # ATTACHMENT 4 — ASSESSMENT COLLECTION POLICY
 
-Village at Ledge Stone Condominiums is a condominium regime created by and subject to the Declaration of Condominium Regime for Village at Ledge Stone Condominiums recorded or to be recorded in the Official Public Records of Hays County, Texas County, Texas [sic], as it may be amended (the "Declaration"). As a condominium regime, Village at Ledge Stone Condominiums is also subject to State laws, including Chapter 82 of the Texas Property Code — the Texas Uniform Condominium Act ("TUCA"). The operation of Village at Ledge Stone Condominiums is vested in Village at Ledge Stone Condominium Owners Association, Inc. (the "Association"), acting through its board of directors (the "Board"). The Association is empowered to enforce the covenants of the Declaration, including the obligation of owners to pay assessments. In addition to rights and remedies of the Association under the Declaration, TUCA gives the Association, acting through the Board:
+Village at Ledge Stone Condominiums is a condominium regime created by and subject to the Declaration of Condominium Regime for Village at Ledge Stone Condominiums recorded or to be recorded in the Official Public Records of Hays County, Texas, as it may be amended (the "Declaration"). As a condominium regime, Village at Ledge Stone Condominiums is also subject to State laws, including Chapter 82 of the Texas Property Code — the Texas Uniform Condominium Act ("TUCA"). The operation of Village at Ledge Stone Condominiums is vested in Village at Ledge Stone Condominium Owners Association, Inc. (the "Association"), acting through its board of directors (the "Board"). The Association is empowered to enforce the covenants of the Declaration, including the obligation of owners to pay assessments. In addition to rights and remedies of the Association under the Declaration, TUCA gives the Association, acting through the Board:
 
 1. Authority to adopt and amend rules regulating the collection of delinquent assessments and the application of payments. §82.102(a)(13);
 
@@ -504,7 +460,7 @@ To establish equitable policies and procedures for the collection of delinquent 
 
 **1-B. Delinquent.** Any assessment that is not fully paid when due is delinquent. When the account of a Unit becomes delinquent, it remains delinquent until paid in full — including collection costs and late fees.
 
-**1-C. Late Fees & Interest.** If the Association does not receive full payment of a Regular Assessment by 5:00 p.m. on the fifth (5th) calendar day of the month, the Association may levy a late fee of $25 per month and/or interest of ten percent (10%) per annum from the first day of delinquency until the delinquency is paid in full. After the initial month of delinquency, a late fee of $25 may be [levied] on the first day of each month the account is delinquent until the account is current.
+**1-C. Late Fees & Interest.** If the Association does not receive full payment of a Regular Assessment by 5:00 p.m. on the fifth (5th) calendar day of the month, the Association may levy a late fee of $25 per month and/or interest of ten percent (10%) per annum from the first day of delinquency until the delinquency is paid in full. After the initial month of delinquency, a late fee of $25 may be levied on the first day of each month the account is delinquent until the account is current.
 
 **1-D. Liability for Collection Costs.** The defaulting Owner is liable to the Association for the cost of title reports, credit reports, certified mail, long distance calls, court costs, filing fees, and other reasonable costs and attorney's fees incurred by the Association in collecting the delinquency.
 
@@ -579,7 +535,7 @@ The defaulting Owner is liable to the Association for the cost of title reports,
 
 **5-O. Suspension of Voting Rights.** The Association may suspend the voting rights of an Owner whose account with the Association is delinquent for at least thirty (30) days.
 
-**5-P. Suspension of Use of Certain Facilities or Services.** The Association may suspend the use of the [sic] any Common Element amenities by an Owner, or his tenant, whose account with the Association is delinquent for at least thirty (30) days.
+**5-P. Suspension of Use of Certain Facilities or Services.** The Association may suspend the use of any Common Element amenities by an Owner, or his tenant, whose account with the Association is delinquent for at least thirty (30) days.
 
 **5-Q. Utility Shut-Off.** The Association may terminate utility service to the Unit for which assessments used to pay the cost of that utility are delinquent, according to the Association's utility shut-off policy.
 
@@ -613,7 +569,9 @@ a. **New Violation.** If the owner was not given notice and a reasonable opportu
 
 b. **Repeat Violation.** In the case of a repeat violation, the notice will state that, because the owner was given notice and a reasonable opportunity to cure a similar violation within the preceding twelve (12) months, the fine attaches from the date of the violation notice.
 
-**4. Violation Hearing.** [sic — the document numbers two consecutive paragraphs "4."] An owner may request in writing a hearing by the Board to contest the fine. To request a hearing before the Board, an owner must submit a written request to the Association's manager within thirty (30) days after the date of the violation notice. Within fifteen (15) days after owner's request for a hearing, the Association will give the owner at least fifteen (15) days' notice of the date, time, and place of the hearing. The hearing will be scheduled to provide a reasonable opportunity for both the Board and the owner to attend. Pending the hearing, the Association may continue to exercise its other rights and remedies for the violation, as if the declared violation were valid. The owner's request for a hearing suspends only the levy of a fine. The hearing will be held in a closed or executive session of the Board. At the hearing, the Board will consider the facts and circumstances surrounding the violation. The owner may attend the hearing in person, or may be represented by another person or written communication. No audio or video recording of the hearing may be made. The minutes of the hearing must contain a statement of the results of the hearing and the fine, if any, imposed. A copy of the violation notice and request for hearing should be placed in the minutes of the hearing. If the owner appears at the meeting, the notice requirements will be deemed satisfied.
+*Editorial note: the recorded policy numbers two consecutive paragraphs "4."*
+
+**4. Violation Hearing.** An owner may request in writing a hearing by the Board to contest the fine. To request a hearing before the Board, an owner must submit a written request to the Association's manager within thirty (30) days after the date of the violation notice. Within fifteen (15) days after owner's request for a hearing, the Association will give the owner at least fifteen (15) days' notice of the date, time, and place of the hearing. The hearing will be scheduled to provide a reasonable opportunity for both the Board and the owner to attend. Pending the hearing, the Association may continue to exercise its other rights and remedies for the violation, as if the declared violation were valid. The owner's request for a hearing suspends only the levy of a fine. The hearing will be held in a closed or executive session of the Board. At the hearing, the Board will consider the facts and circumstances surrounding the violation. The owner may attend the hearing in person, or may be represented by another person or written communication. No audio or video recording of the hearing may be made. The minutes of the hearing must contain a statement of the results of the hearing and the fine, if any, imposed. A copy of the violation notice and request for hearing should be placed in the minutes of the hearing. If the owner appears at the meeting, the notice requirements will be deemed satisfied.
 
 **5. Levy of Fine.** Within thirty (30) days after levying the fine, the Board must give the owner notice of the levied fine. If the fine is levied at the hearing at which the owner is actually present, the notice requirement will be satisfied if the Board announces its decision to the owner at the hearing. Otherwise, the notice must be in writing. In addition to the initial levy notice, the Association will give the owner periodic written notices of an accruing fine or the application of an owner's payments to reduce the fine. The periodic notices may be in the form of monthly statements or delinquency notices.
 
@@ -627,36 +585,4 @@ b. **Repeat Violation.** In the case of a repeat violation, the notice will stat
 
 ---
 
-## Recording Information
-
-Doc-11030484 &nbsp;|&nbsp; Bk-OPR Vl-4253 &nbsp;|&nbsp; Pg-525
-
-**\*\*\*\* Electronically Filed Document \*\*\*\***
-
-Hays County Texas
-Liz Q. Gonzalez, County Clerk
-
-Document Number: 2011-11030484
-Recorded As: ELECTRONIC RECORDING
-
-Recorded On: December 30, 2011
-Recorded At: 09:47:55 am
-Number of Pages: 35
-Book-Vl/Pg: Bk-OPR Vl-4253 Pg-525
-Recording Fee: $148.00
-
-Parties:
-&nbsp;&nbsp;&nbsp;&nbsp;Direct — VILLAGE AT LEDGESTONE CONDOMIN[IUM] [truncated in record]
-&nbsp;&nbsp;&nbsp;&nbsp;Indirect — PUBLIC THE
-
-Receipt Number: 292479
-Processed By: Lynn Curry
-
-**\*\*\*\* THIS PAGE IS PART OF THE INSTRUMENT \*\*\*\***
-
-Any provision herein which restricts the Sale, Rental or use of the described REAL PROPERTY because of color or race is invalid and unenforceable under federal law.
-
-I hereby certify that this instrument was filed for record in my office on the date and time stamped hereon, and was recorded on the volume and page of the named records of Hays County, Texas.
-
-Liz Q. Gonzalez, County Clerk
-Hays County, Texas
+*End of Community Manual (Doc. No. 11030484).*
