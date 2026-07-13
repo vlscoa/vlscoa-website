@@ -16,8 +16,8 @@
   "forms": {
     "newOwner": "https://docs.google.com/forms/d/e/1FAIpQLSe-cwUsbPvnvLJEqD9jCFYI-0585Qiwew0IKnIbzgL5rFsmyQ/viewform",
     "contactUpdate": "https://docs.google.com/forms/d/e/1FAIpQLSeAlb4JS7L9j93qccMxqR33wkQ5LUY0SyClpGkYAlsE_1DLDw/viewform",
-    "recordsRequest": "mailto:secretary@vlscoa.org?cc=board@vlscoa.org&subject=Records%20Inspection%20Request",
-    "resaleRequest": "mailto:secretary@vlscoa.org?cc=board@vlscoa.org&subject=Resale%20Certificate%20Request"
+    "recordsRequest": "https://docs.google.com/forms/d/e/1FAIpQLSfikxwef-qcfJaHdKhPfx-T5I-A-5y-SF5O80xLwokT0AiY_A/viewform",
+    "resaleRequest": "https://docs.google.com/forms/d/e/1FAIpQLSc-mYiNpqOUP8LSjobyE_Yq0O1hc8yAn7HfwGNgaddkuUZDHw/viewform"
   },
   "nav": [
     { "url": "/", "label": "Home" },
