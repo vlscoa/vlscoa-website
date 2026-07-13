@@ -1,13 +1,19 @@
-# Roadmap: Neeve AI Dev Framework
+# Roadmap: VLSCOA Website
 
 > Last reviewed: 2026-07-12
-> Maintained by: kchristo-neeve
+> Maintained by: vlscoa-ops
 
 ---
 
 ## How This Works
 
-Single source of truth for what's planned, in progress, and shipped. Add items with `/roadmap add` or edit directly. At session start the agent compares this against recent commits and suggests priorities. After shipping, move items to `shipped` with the date + version/commit.
+This roadmap tracks all feature ideas, improvements, and technical debt for the project. It is the **single source of truth** for what's planned, in progress, and shipped.
+
+### Workflow
+- **Add items anytime** — use `/roadmap add` or edit this file directly
+- **Session start** — the agent reads this file, compares against recent commits, and suggests next priorities
+- **After shipping** — move items to `shipped` with the date and commit/PR reference
+- **Deprioritized work** — mark as `deferred` with a reason, don't delete
 
 ### Status Legend
 
@@ -15,49 +21,41 @@ Single source of truth for what's planned, in progress, and shipped. Add items w
 |--------|---------|
 | `planned` | Idea captured, not yet started |
 | `in-progress` | Actively being worked on |
-| `shipped` | Merged to main and tagged |
+| `shipped` | Merged to main and deployed |
 | `deferred` | Postponed — include reason |
 
 ### Priority Levels
 
-`critical` (blocking) · `high` (next up) · `medium` (important, not urgent) · `low` (nice to have)
+| Priority | Meaning |
+|----------|---------|
+| `critical` | Blocking users or breaking functionality |
+| `high` | Next up — significant value or unblocks other work |
+| `medium` | Important but not urgent |
+| `low` | Nice to have, do when time allows |
 
 ---
 
-## Reasoning & Quality
+## Accuracy & Legal Compliance
 
 | # | Item | Status | Priority | Target | Notes |
 |---|------|--------|----------|--------|-------|
-| 1 | `.ai/REASONING.md` — model-agnostic Reasoning Operating Manual + 5-question self-test | shipped | — | v1.30.0 | Authored by Fable 5, trap-test verified. Plan: `2026-07-12-1038-…-adopt-fable-brain.md` |
-| 2 | Fable framework audit — 18 findings (correctness, safety, dedup) | shipped | — | v1.30.0 | All implemented, each re-verified against files first |
-| 3 | Protect + ship `REASONING.md` as core framework infra | shipped | — | v1.30.1 | Protection hook + doc lists + update allowlist |
+| 1 | Full accuracy review of all 11 reading copies vs recorded PDFs — zero OCR/transcription errors; flag uncertain items for review | in-progress | critical | — | Plan: `2026-07-12-1851-vlscoa-ops-polish-website.md` |
+| 2 | Secretary spot-check of auto-transcribed reading copies | planned | high | — | External review; pending since launch |
 
-## Commands & Workflow
-
-| # | Item | Status | Priority | Target | Notes |
-|---|------|--------|----------|--------|-------|
-| 1 | `/adr` — capture an ADR at decision time | shipped | — | v1.30.0 | |
-| 2 | `/memory-gc` — prune MEMORY.md + consolidate lessons | shipped | — | v1.30.0 | |
-| 3 | `/distill` — extract a strong model's reasoning / freeze a workflow into a skill | shipped | — | v1.30.0 | |
-| 4 | `/consumer-smoke` — verify no-leak install (framework-dev) | shipped | — | v1.30.0 | Would have caught the v1.25 leak |
-| 5 | `/framework-pull` — collaborator pull-and-review flow | shipped | — | v1.31.0 | Counterpart to `/framework-update`. Plan: `2026-07-12-1556-…-framework-pull.md` |
-| 6 | Workflow chaining — `/ship`, `/test` (test gate), `/ci-setup` + monitoring/a11y | in-progress | high | — | Plan: `2026-06-30-1725-…-workflow-chaining.md`; awaiting James's review |
-| 7 | `/mcp-builder` — scaffold + register an MCP server | shipped | — | v1.29.0 | |
-
-## Collaboration & Release
+## UX & Design
 
 | # | Item | Status | Priority | Target | Notes |
 |---|------|--------|----------|--------|-------|
-| 1 | Delivery automation — notification + consumer-update verification (currently manual Slack/ad-hoc) | planned | medium | — | From the release-flow capture (adopt-fable-brain report, Appendix B) |
-| 2 | Cross-agent handoff fidelity — release started under one agent, continued under another | planned | high | — | Flagged first-class in the release-flow capture; largely untested |
-| 3 | Cross-user handoff fidelity — K starts, James finishes, possibly different agents | planned | high | — | The framework's core bet; exercise at a real release |
+| 1 | Hierarchical governing-documents listing (currently flat) — group by `group` field in `instruments.json` | in-progress | high | — | Plan: `2026-07-12-1851-vlscoa-ops-polish-website.md` |
+| 2 | Site-wide UX improvements | in-progress | high | — | Same plan |
+| 3 | Visual/design polish — typography, spacing, mobile | in-progress | medium | — | Same plan |
 
-## Observability & Verification
+## Content & Technical Hygiene
 
 | # | Item | Status | Priority | Target | Notes |
 |---|------|--------|----------|--------|-------|
-| 1 | Evals & observability | planned | medium | — | Plan: `2026-06-28-1023-…-evals-observability.md` (NOT STARTED) |
-| 2 | Re-verify `/mcp-builder` Python variant on a real machine | planned | low | — | Carried in MEMORY.md as an open verification |
+| 1 | Content & copy pass on member-facing pages (plain language, cites, disclaimers) | in-progress | medium | — | Same plan |
+| 2 | Technical hygiene: meta tags, sitemap, 404, headers, accessibility, live PDF link checks | in-progress | medium | — | Same plan |
 
 ---
 
@@ -67,7 +65,15 @@ Single source of truth for what's planned, in progress, and shipped. Add items w
 
 | Item | Category | Shipped | Reference |
 |------|----------|---------|-----------|
-| `/framework-pull` collaborator flow | Commands & Workflow | 2026-07-12 | v1.31.0 · `a547e8e` |
-| Protect + ship `REASONING.md` | Reasoning & Quality | 2026-07-12 | v1.30.1 · `68cde71` |
-| REASONING.md + full Fable audit (18) + `/adr` `/memory-gc` `/distill` `/consumer-smoke` | Reasoning & Quality / Commands | 2026-07-12 | v1.30.0 · `1617570` |
-| `/mcp-builder` | Commands & Workflow | 2026-06-30 | v1.29.0 |
+| Adopt `.ai/` dev framework; pin deps with lockfile | Infrastructure | 2026-07-12 | `cf3df83` |
+| Site launch: 14 instruments, 11 reading copies, CMS, Cloudflare Pages | Launch | 2026-07-11 | `71f345f` and earlier |
+
+---
+
+## Deferred Items
+
+> Items that were considered but postponed. Include the reason so future sessions don't re-propose them.
+
+| Item | Category | Reason | Revisit |
+|------|----------|--------|---------|
+| *(none yet)* | | | |
