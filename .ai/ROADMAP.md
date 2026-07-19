@@ -65,6 +65,7 @@ This roadmap tracks all feature ideas, improvements, and technical debt for the 
 
 | Item | Category | Shipped | Reference |
 |------|----------|---------|-----------|
+| Favicon: two-line VLS/COA lockup, stripe removed | UX & Design | 2026-07-19 | `4d0eb6d`, `89f7ddf` |
 | Adopt `.ai/` dev framework; pin deps with lockfile | Infrastructure | 2026-07-12 | `cf3df83` |
 | Site launch: 14 instruments, 11 reading copies, CMS, Cloudflare Pages | Launch | 2026-07-11 | `71f345f` and earlier |
 
